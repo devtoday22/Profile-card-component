@@ -1,6 +1,6 @@
 .mainContainer {
     margin-top: 6%;
-    width: 22%;
+    width: auto;
     margin-right: auto;
     margin-left: auto;
     display: flex;
@@ -23,6 +23,8 @@
     background-color: white;
     border-radius: 18px;
     height: 420px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .profileImage img {
