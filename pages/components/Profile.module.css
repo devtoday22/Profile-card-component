@@ -1,0 +1,88 @@
+.mainContainer {
+    margin-top: 6%;
+    width: 22%;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+}
+
+
+.image img {
+
+    width: 360px;
+    height: 180px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+
+.card {
+
+    width: 360px;
+    height: 380px;
+    background-color: white;
+    border-radius: 18px;
+    height: 420px;
+}
+
+.profileImage img {
+
+    width: 120px;
+    height: auto;
+    border-radius: 50%;
+    border: 8px rgb(255, 255, 255) solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -72px;
+}
+
+.bioSection {
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.nameText {
+
+    color: black;
+    font-weight: 700;
+    margin: 0;
+}
+
+.age {
+
+    color: rgb(159, 158, 158);
+}
+
+.city {
+
+    color: rgb(159, 158, 158);
+}
+
+.statistic {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    gap: 2px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.stat {
+
+    font-weight: 700;
+}
+
+.statText {
+
+    font-size: 12px;
+    padding-bottom: 30px;
+}
