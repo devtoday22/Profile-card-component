@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+LIVE WEBSITE: https://profile-card-component-mu-rust.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
