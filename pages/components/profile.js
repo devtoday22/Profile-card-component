@@ -7,7 +7,7 @@ import Image from 'next/image';
 export default function Profile() {
     return (
         <>
-            <main>
+            <main className={styles.main}>
                 <div className={styles.mainContainer}>
                     <div className={styles.card}>
                         <div className={styles.image}>
